@@ -1,0 +1,25 @@
+D:\Shield proj\Reprogramming app\CShark\bin\Debug\CShark.exe.config
+D:\Shield proj\Reprogramming app\CShark\bin\Debug\CShark.exe
+D:\Shield proj\Reprogramming app\CShark\bin\Debug\CShark.pdb
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.csproj.AssemblyReference.cache
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.Main.resources
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.csproj.GenerateResource.cache
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.csproj.CoreCompileInputs.cache
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.exe
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.pdb
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.Resources.resources
+D:\Shield proj\Reprogramming app\CShark\obj\Debug\CShark.Appearance.resources
+D:\Shield\Reprogramming\CShark\bin\Debug\CShark.exe.config
+D:\Shield\Reprogramming\CShark\bin\Debug\CShark.exe
+D:\Shield\Reprogramming\CShark\bin\Debug\CShark.pdb
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.csproj.AssemblyReference.cache
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.Appearance.resources
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.Main.resources
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.Resources.resources
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.csproj.GenerateResource.cache
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.csproj.CoreCompileInputs.cache
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.exe
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.pdb
+D:\Shield\Reprogramming\CShark\bin\Debug\Newtonsoft.Json.dll
+D:\Shield\Reprogramming\CShark\bin\Debug\Newtonsoft.Json.xml
+D:\Shield\Reprogramming\CShark\obj\Debug\CShark.csproj.Up2Date

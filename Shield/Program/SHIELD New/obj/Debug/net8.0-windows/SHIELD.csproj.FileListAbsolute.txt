@@ -1,0 +1,73 @@
+D:\SHIELD\bin\Debug\net8.0-windows\SHIELD.exe
+D:\SHIELD\bin\Debug\net8.0-windows\SHIELD.deps.json
+D:\SHIELD\bin\Debug\net8.0-windows\SHIELD.runtimeconfig.json
+D:\SHIELD\bin\Debug\net8.0-windows\SHIELD.dll
+D:\SHIELD\bin\Debug\net8.0-windows\SHIELD.pdb
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.App.resources
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.csproj.GenerateResource.cache
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.AssemblyInfoInputs.cache
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.AssemblyInfo.cs
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.csproj.CoreCompileInputs.cache
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.dll
+D:\SHIELD\obj\Debug\net8.0-windows\refint\SHIELD.dll
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.pdb
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.genruntimeconfig.cache
+D:\SHIELD\obj\Debug\net8.0-windows\ref\SHIELD.dll
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.Information.resources
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.Config.resources
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.Server.resources
+D:\SHIELD\obj\Debug\net8.0-windows\SHIELD.Data.resources
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.App.resources
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Config.resources
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Data.resources
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Information.resources
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Server.resources
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.csproj.GenerateResource.cache
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.AssemblyInfoInputs.cache
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.AssemblyInfo.cs
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.csproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.dll
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\refint\SHIELD.dll
+C:\Users\MICROSOFT\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.pdb
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.App.resources
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Config.resources
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Data.resources
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Information.resources
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.Server.resources
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.csproj.GenerateResource.cache
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.AssemblyInfoInputs.cache
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.AssemblyInfo.cs
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.csproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.dll
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\refint\SHIELD.dll
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.pdb
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\bin\Debug\net8.0-windows\SHIELD.exe
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\bin\Debug\net8.0-windows\SHIELD.deps.json
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\bin\Debug\net8.0-windows\SHIELD.runtimeconfig.json
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\bin\Debug\net8.0-windows\SHIELD.dll
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\bin\Debug\net8.0-windows\SHIELD.pdb
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\SHIELD.genruntimeconfig.cache
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\post\SHIELD\obj\Debug\net8.0-windows\ref\SHIELD.dll
+D:\Shield proj\Program\SHIELD New\bin\Debug\net8.0-windows\SHIELD.exe
+D:\Shield proj\Program\SHIELD New\bin\Debug\net8.0-windows\SHIELD.deps.json
+D:\Shield proj\Program\SHIELD New\bin\Debug\net8.0-windows\SHIELD.runtimeconfig.json
+D:\Shield proj\Program\SHIELD New\bin\Debug\net8.0-windows\SHIELD.dll
+D:\Shield proj\Program\SHIELD New\bin\Debug\net8.0-windows\SHIELD.pdb
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.App.resources
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.Config.resources
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.Data.resources
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.Information.resources
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.Server.resources
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.csproj.GenerateResource.cache
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.AssemblyInfoInputs.cache
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.AssemblyInfo.cs
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.csproj.CoreCompileInputs.cache
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.dll
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\refint\SHIELD.dll
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.pdb
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\SHIELD.genruntimeconfig.cache
+D:\Shield proj\Program\SHIELD New\obj\Debug\net8.0-windows\ref\SHIELD.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shield\\Reprogramming\\CShark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90071FCA-328D-4018-9D9A-0C1EB6648CF4}|CShark.csproj|d:\\shield\\reprogramming\\cshark\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90071FCA-328D-4018-9D9A-0C1EB6648CF4}|CShark.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90071FCA-328D-4018-9D9A-0C1EB6648CF4}|CShark.csproj|D:\\Shield\\Reprogramming\\CShark\\appearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90071FCA-328D-4018-9D9A-0C1EB6648CF4}|CShark.csproj|solutionrelative:appearance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\Shield\\Reprogramming\\CShark\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Shield\\Reprogramming\\CShark\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:06:55.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appearance.cs",
+              "DocumentMoniker": "D:\\Shield\\Reprogramming\\CShark\\Appearance.cs",
+              "RelativeDocumentMoniker": "Appearance.cs",
+              "ToolTip": "D:\\Shield\\Reprogramming\\CShark\\Appearance.cs",
+              "RelativeToolTip": "Appearance.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA1wHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T02:16:39.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

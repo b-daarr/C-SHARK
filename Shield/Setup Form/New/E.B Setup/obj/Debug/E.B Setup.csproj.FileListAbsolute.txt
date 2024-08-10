@@ -1,0 +1,40 @@
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\bin\Debug\E.B Setup.exe.config
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\bin\Debug\E.B Setup.exe
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\bin\Debug\E.B Setup.pdb
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\obj\Debug\E.B Setup.csproj.AssemblyReference.cache
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\obj\Debug\E.B_Setup.Form1.resources
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\obj\Debug\E.B_Setup.Properties.Resources.resources
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\obj\Debug\E.B Setup.csproj.GenerateResource.cache
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\obj\Debug\E.B Setup.csproj.CoreCompileInputs.cache
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\obj\Debug\E.B Setup.exe
+C:\Users\MyMic\OneDrive\Desktop\test\E.B Setup\obj\Debug\E.B Setup.pdb
+D:\Desk\EB\E.B Setup\bin\Debug\E.B Setup.exe.config
+D:\Desk\EB\E.B Setup\bin\Debug\E.B Setup.exe
+D:\Desk\EB\E.B Setup\bin\Debug\E.B Setup.pdb
+D:\Desk\EB\E.B Setup\obj\Debug\E.B Setup.csproj.AssemblyReference.cache
+D:\Desk\EB\E.B Setup\obj\Debug\E.B_Setup.Form1.resources
+D:\Desk\EB\E.B Setup\obj\Debug\E.B_Setup.Properties.Resources.resources
+D:\Desk\EB\E.B Setup\obj\Debug\E.B Setup.csproj.GenerateResource.cache
+D:\Desk\EB\E.B Setup\obj\Debug\E.B Setup.csproj.CoreCompileInputs.cache
+D:\Desk\EB\E.B Setup\obj\Debug\E.B Setup.exe
+D:\Desk\EB\E.B Setup\obj\Debug\E.B Setup.pdb
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\bin\Debug\E.B Setup.exe.config
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\bin\Debug\E.B Setup.exe
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\bin\Debug\E.B Setup.pdb
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.csproj.AssemblyReference.cache
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\obj\Debug\E.B_Setup.Form1.resources
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\obj\Debug\E.B_Setup.Properties.Resources.resources
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.csproj.GenerateResource.cache
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.csproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.exe
+C:\Users\MICROSOFT\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.pdb
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\bin\Debug\E.B Setup.exe.config
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\bin\Debug\E.B Setup.exe
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\bin\Debug\E.B Setup.pdb
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.csproj.AssemblyReference.cache
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\obj\Debug\E.B_Setup.Form1.resources
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\obj\Debug\E.B_Setup.Properties.Resources.resources
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.csproj.GenerateResource.cache
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.csproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.exe
+C:\Users\MICROSOFT\Desktop\Shield proj\Desktop\tmp1\E.B Setup\obj\Debug\E.B Setup.pdb

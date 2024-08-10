@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shield proj\\Program\\SHIELD New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2214DEE-8ACB-4DAE-B6ED-4B8CA8E21F72}|SHIELD.csproj|d:\\shield proj\\program\\shield new\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2214DEE-8ACB-4DAE-B6ED-4B8CA8E21F72}|SHIELD.csproj|solutionrelative:information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2214DEE-8ACB-4DAE-B6ED-4B8CA8E21F72}|SHIELD.csproj|d:\\shield proj\\program\\shield new\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2214DEE-8ACB-4DAE-B6ED-4B8CA8E21F72}|SHIELD.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2214DEE-8ACB-4DAE-B6ED-4B8CA8E21F72}|SHIELD.csproj|d:\\shield proj\\program\\shield new\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2214DEE-8ACB-4DAE-B6ED-4B8CA8E21F72}|SHIELD.csproj|solutionrelative:config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Information.cs [Design]",
+              "DocumentMoniker": "D:\\Shield proj\\Program\\SHIELD New\\Information.cs",
+              "RelativeDocumentMoniker": "Information.cs",
+              "ToolTip": "D:\\Shield proj\\Program\\SHIELD New\\Information.cs [Design]",
+              "RelativeToolTip": "Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:55:10.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.cs [Design]",
+              "DocumentMoniker": "D:\\Shield proj\\Program\\SHIELD New\\Config.cs",
+              "RelativeDocumentMoniker": "Config.cs",
+              "ToolTip": "D:\\Shield proj\\Program\\SHIELD New\\Config.cs [Design]",
+              "RelativeToolTip": "Config.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:23:45.143Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs [Design]",
+              "DocumentMoniker": "D:\\Shield proj\\Program\\SHIELD New\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "D:\\Shield proj\\Program\\SHIELD New\\App.cs [Design]",
+              "RelativeToolTip": "App.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:01:57.352Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
