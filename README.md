@@ -17,4 +17,8 @@ Currently, it is a release version and it is not stable, but a stable release wi
 
 [`10Aug2024` Level --> Release](https://github.com/b-daarr/CShark/releases)
 
+> Requirements
+
+[.NET Framework 8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
 ## (I am interested in your suggestions or providing important points from you).
