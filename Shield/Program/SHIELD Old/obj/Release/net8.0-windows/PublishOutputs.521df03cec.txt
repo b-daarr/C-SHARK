@@ -1,5 +1,0 @@
-C:\Users\MICROSOFT\Downloads\SHIELD.exe
-C:\Users\MICROSOFT\Downloads\SHIELD.dll
-C:\Users\MICROSOFT\Downloads\SHIELD.deps.json
-C:\Users\MICROSOFT\Downloads\SHIELD.runtimeconfig.json
-C:\Users\MICROSOFT\Downloads\SHIELD.pdb
