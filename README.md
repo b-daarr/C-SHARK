@@ -1,4 +1,4 @@
-# CShark
+# CShark 🦈
 
 At first, this project was started with the name of Embargo Breaker.
 
