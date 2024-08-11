@@ -12,7 +12,7 @@
 
 > Versions
 
-[`CShark-2024.8.11 release`](https://github.com/b-daarr/CShark/releases/tag/v2024.8.11) Latest
+[`CShark-2024.8.11 release`](https://github.com/b-daarr/CShark/releases/tag/v2024.8.11) ##Latest##
 
   [`CShark-2024.8.10 release`](https://github.com/b-daarr/CShark/releases/tag/v2024.8.10)
 
