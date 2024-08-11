@@ -16,7 +16,7 @@
 
   > Versions
 
-  [`10Aug2024` Level --> Release](https://github.com/b-daarr/CShark/releases)
+  [`CShark-2024.8.10 release`](https://github.com/b-daarr/CShark/releases)
 
   > Requirements
 
