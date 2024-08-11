@@ -23,3 +23,17 @@ D:\Shield\Reprogramming\CShark\obj\Debug\CShark.pdb
 D:\Shield\Reprogramming\CShark\bin\Debug\Newtonsoft.Json.dll
 D:\Shield\Reprogramming\CShark\bin\Debug\Newtonsoft.Json.xml
 D:\Shield\Reprogramming\CShark\obj\Debug\CShark.csproj.Up2Date
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\bin\Debug\CShark.exe.config
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\bin\Debug\CShark.exe
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\bin\Debug\CShark.pdb
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.csproj.AssemblyReference.cache
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.Appearance.resources
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.Main.resources
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.Resources.resources
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.csproj.GenerateResource.cache
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.csproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.csproj.Up2Date
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.exe
+C:\Users\MICROSOFT\Desktop\Shield\CShark\CShark\obj\Debug\CShark.pdb

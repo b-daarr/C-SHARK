@@ -74,78 +74,79 @@ namespace CShark
 
         private void config_button_MouseEnter(object sender, EventArgs e)
         {
-            info01.Text = "Config";
-            info01.TextAlign = ContentAlignment.MiddleLeft;
+            info03.Text = "Config";
+            info03.TextAlign = ContentAlignment.TopLeft;
         }
 
         private void config_button_MouseLeave(object sender, EventArgs e)
         {
-            info01.Text = string.Empty;
+            info03.Text = string.Empty;
         }
 
         private void collaborate_button_MouseEnter(object sender, EventArgs e)
         {
-            info02.Text = "Develop";
-            info02.TextAlign = ContentAlignment.MiddleLeft;
+            info03.Text = "Develop";
+            info03.TextAlign = ContentAlignment.TopRight;
         }
 
         private void collaborate_button_MouseLeave(object sender, EventArgs e)
         {
-            info02.Text = string.Empty;
+            info03.Text = string.Empty;
         }
 
         private void appearance_button_MouseEnter(object sender, EventArgs e)
         {
-            info01.Text = "Appearance";
-            info01.TextAlign = ContentAlignment.MiddleRight;
+            info02.Text = "Appearance";
+            info02.TextAlign = ContentAlignment.TopLeft;
         }
 
         private void appearance_button_MouseLeave(object sender, EventArgs e)
         {
-            info01.Text = string.Empty;
+            info02.Text = string.Empty;
         }
 
         private void community_button_MouseEnter(object sender, EventArgs e)
         {
-            info02.Text = "Community";
-            info02.TextAlign = ContentAlignment.MiddleRight;
+            info01.Text = "Community";
+            info01.TextAlign = ContentAlignment.BottomRight;
         }
 
         private void community_button_MouseLeave(object sender, EventArgs e)
         {
-            info02.Text = string.Empty;
+            info01.Text = string.Empty;
         }
 
         private void donate_button_MouseEnter(object sender, EventArgs e)
         {
-            info03.Text = "Donation";
-            info03.TextAlign = ContentAlignment.TopLeft;
+            info02.Text = "Donation";
+            info02.TextAlign = ContentAlignment.TopRight;
         }
 
         private void donate_button_MouseLeave(object sender, EventArgs e)
         {
-            info03.Text = string.Empty;
+            info02.Text = string.Empty;
         }
 
         private void support_button_MouseEnter(object sender, EventArgs e)
         {
-            info03.Text = "Support";
-            info03.TextAlign = ContentAlignment.TopRight;
+            info01.Text = "Support";
+            info01.TextAlign = ContentAlignment.BottomLeft;
         }
 
         private void support_button_MouseLeave(object sender, EventArgs e)
         {
-            info03.Text = string.Empty;
+            info01.Text = string.Empty;
         }
 
         private void start_button_MouseEnter(object sender, EventArgs e)
         {
-            info04.Text = "START";
+            info03.Text = "START";
+            info03.TextAlign = ContentAlignment.BottomCenter;
         }
 
         private void start_button_MouseLeave(object sender, EventArgs e)
         {
-            info04.Text = string.Empty;
+            info03.Text = string.Empty;
         }
 
         public void LightMode()
@@ -159,7 +160,7 @@ namespace CShark
             info01.ForeColor = Color.FromArgb(64, 0, 64);
             info02.ForeColor = Color.FromArgb(64, 0, 64);
             info03.ForeColor = Color.FromArgb(64, 0, 64);
-            info04.ForeColor = Color.Red;
+            //info04.ForeColor = Color.Red;
         }
 
         public void DarkMode()
@@ -173,7 +174,7 @@ namespace CShark
             info01.ForeColor = Color.FromArgb(255, 128, 255);
             info02.ForeColor = Color.FromArgb(255, 128, 255);
             info03.ForeColor = Color.FromArgb(255, 128, 255);
-            info04.ForeColor = Color.Yellow;
+            //info04.ForeColor = Color.Yellow;
         }
 
         private void Main_Load(object sender, EventArgs e)
@@ -197,6 +198,11 @@ namespace CShark
             {
                 DarkMode();
             }
+        }
+
+        private void status_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

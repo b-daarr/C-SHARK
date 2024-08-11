@@ -42,7 +42,6 @@
             this.info01 = new System.Windows.Forms.Label();
             this.info02 = new System.Windows.Forms.Label();
             this.info03 = new System.Windows.Forms.Label();
-            this.info04 = new System.Windows.Forms.Label();
             this.appearance_button = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.community_button)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.collaborate_button)).BeginInit();
@@ -71,7 +70,7 @@
             this.community_button.BackgroundImage = global::CShark.Resources.community;
             this.community_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.community_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.community_button.Location = new System.Drawing.Point(290, 395);
+            this.community_button.Location = new System.Drawing.Point(326, 148);
             this.community_button.Name = "community_button";
             this.community_button.Size = new System.Drawing.Size(60, 60);
             this.community_button.TabIndex = 11;
@@ -85,7 +84,7 @@
             this.collaborate_button.BackgroundImage = global::CShark.Resources.collaborate;
             this.collaborate_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.collaborate_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.collaborate_button.Location = new System.Drawing.Point(150, 395);
+            this.collaborate_button.Location = new System.Drawing.Point(360, 253);
             this.collaborate_button.Name = "collaborate_button";
             this.collaborate_button.Size = new System.Drawing.Size(60, 60);
             this.collaborate_button.TabIndex = 10;
@@ -99,7 +98,7 @@
             this.support_button.BackgroundImage = global::CShark.Resources.report;
             this.support_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.support_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.support_button.Location = new System.Drawing.Point(360, 259);
+            this.support_button.Location = new System.Drawing.Point(109, 148);
             this.support_button.Name = "support_button";
             this.support_button.Size = new System.Drawing.Size(60, 60);
             this.support_button.TabIndex = 9;
@@ -113,7 +112,7 @@
             this.donate_button.BackgroundImage = global::CShark.Resources.donate;
             this.donate_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.donate_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.donate_button.Location = new System.Drawing.Point(80, 259);
+            this.donate_button.Location = new System.Drawing.Point(326, 360);
             this.donate_button.Name = "donate_button";
             this.donate_button.Size = new System.Drawing.Size(60, 60);
             this.donate_button.TabIndex = 6;
@@ -127,7 +126,7 @@
             this.config_button.BackgroundImage = global::CShark.Resources.config;
             this.config_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.config_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.config_button.Location = new System.Drawing.Point(150, 120);
+            this.config_button.Location = new System.Drawing.Point(75, 253);
             this.config_button.Name = "config_button";
             this.config_button.Size = new System.Drawing.Size(60, 60);
             this.config_button.TabIndex = 5;
@@ -141,9 +140,9 @@
             this.start_button.BackgroundImage = global::CShark.Resources._try;
             this.start_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.start_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.start_button.Location = new System.Drawing.Point(190, 229);
+            this.start_button.Location = new System.Drawing.Point(184, 220);
             this.start_button.Name = "start_button";
-            this.start_button.Size = new System.Drawing.Size(120, 120);
+            this.start_button.Size = new System.Drawing.Size(126, 126);
             this.start_button.TabIndex = 2;
             this.start_button.TabStop = false;
             this.start_button.MouseEnter += new System.EventHandler(this.start_button_MouseEnter);
@@ -186,14 +185,15 @@
             this.status.Text = "EXIT";
             this.status.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.status.Visible = false;
+            this.status.Click += new System.EventHandler(this.status_Click);
             // 
             // info01
             // 
             this.info01.Font = new System.Drawing.Font("Ubuntu", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.info01.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.info01.Location = new System.Drawing.Point(14, 120);
+            this.info01.Location = new System.Drawing.Point(12, 105);
             this.info01.Name = "info01";
-            this.info01.Size = new System.Drawing.Size(474, 60);
+            this.info01.Size = new System.Drawing.Size(476, 40);
             this.info01.TabIndex = 13;
             this.info01.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
@@ -201,9 +201,9 @@
             // 
             this.info02.Font = new System.Drawing.Font("Ubuntu", 10.2F);
             this.info02.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.info02.Location = new System.Drawing.Point(12, 395);
+            this.info02.Location = new System.Drawing.Point(12, 423);
             this.info02.Name = "info02";
-            this.info02.Size = new System.Drawing.Size(476, 60);
+            this.info02.Size = new System.Drawing.Size(476, 40);
             this.info02.TabIndex = 14;
             this.info02.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
@@ -211,28 +211,18 @@
             // 
             this.info03.Font = new System.Drawing.Font("Ubuntu", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.info03.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.info03.Location = new System.Drawing.Point(14, 229);
+            this.info03.Location = new System.Drawing.Point(12, 220);
             this.info03.Name = "info03";
-            this.info03.Size = new System.Drawing.Size(474, 120);
+            this.info03.Size = new System.Drawing.Size(476, 170);
             this.info03.TabIndex = 15;
             this.info03.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
-            // info04
-            // 
-            this.info04.Font = new System.Drawing.Font("Ubuntu", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.info04.ForeColor = System.Drawing.Color.Yellow;
-            this.info04.Location = new System.Drawing.Point(190, 352);
-            this.info04.Name = "info04";
-            this.info04.Size = new System.Drawing.Size(120, 40);
-            this.info04.TabIndex = 16;
-            this.info04.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // appearance_button
             // 
             this.appearance_button.BackgroundImage = global::CShark.Resources.theme;
             this.appearance_button.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.appearance_button.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.appearance_button.Location = new System.Drawing.Point(290, 120);
+            this.appearance_button.Location = new System.Drawing.Point(109, 360);
             this.appearance_button.Name = "appearance_button";
             this.appearance_button.Size = new System.Drawing.Size(60, 60);
             this.appearance_button.TabIndex = 17;
@@ -248,7 +238,6 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(500, 500);
             this.Controls.Add(this.appearance_button);
-            this.Controls.Add(this.info04);
             this.Controls.Add(this.status);
             this.Controls.Add(this.community_button);
             this.Controls.Add(this.collaborate_button);
@@ -296,7 +285,6 @@
         private System.Windows.Forms.Label info01;
         private System.Windows.Forms.Label info02;
         private System.Windows.Forms.Label info03;
-        private System.Windows.Forms.Label info04;
         private System.Windows.Forms.PictureBox appearance_button;
     }
 }
