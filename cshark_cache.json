@@ -1,0 +1,10 @@
+{
+  "app_theme": "light",
+  "config_list": [
+    {
+      "config_name": "",
+      "preferred_dns_server_ip": "",
+      "alternate_dns_server_ip": ""
+    }
+  ]
+}
