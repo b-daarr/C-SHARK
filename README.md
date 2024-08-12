@@ -6,20 +6,19 @@
 
   With CShark, internet sanctions in Iran (at least) are bypassed. 
 
-  Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon.
-
-+ Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
-
-+ Hoping to build an information free and fair world :)
+  Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
 
   ![CShark](https://github.com/user-attachments/assets/d6695a79-5ae4-4f48-8419-b1efc74a028f)
 
-  > Versions
+> Versions
 
-  [`10Aug2024` Level --> Release](https://github.com/b-daarr/CShark/releases)
+[`CShark-2024.8.11 release`](https://github.com/b-daarr/CShark/releases/tag/v2024.8.11) Latest
 
-  > Requirements
+  [`CShark-2024.8.10 release`](https://github.com/b-daarr/CShark/releases/tag/v2024.8.10)
+
+> Requirements
 
   [.NET Framework 8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
-  ## (I am interested in your suggestions or providing important points from you).
++ Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
+I am interested in your suggestions or providing important points from you.
