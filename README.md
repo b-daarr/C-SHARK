@@ -12,7 +12,7 @@
 
 > Versions
 
-[`CShark-2024.08.12 release`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12) Latest
+[`CShark-2024.08.12 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12) Latest
 
 > Requirements
 
