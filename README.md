@@ -9,15 +9,23 @@
   Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
 
 
-![CShark](https://github.com/user-attachments/assets/d6695a79-5ae4-4f48-8419-b1efc74a028f)
+![CShark](https://github.com/b-daarr/CShark/blob/main/CShark-ReScale01/Resources/app-logo.png)
 
 > Versions
 
-[`CShark-2024.08.12 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12) Latest
+[`CShark-2024.09.29 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.09.29) Latest
+
+[`CShark-2024.08.12 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12)
 
 > Requirements
 
-  [.NET Framework Latest Version](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+  [`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+
+[`Microsoft .NET Core`](https://dotnet.microsoft.com/en-us/download) 
+
+> License
+
+[`Apache License 2.0`](https://github.com/b-daarr/CShark/blob/main/LICENSE)
 
 + Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
 I am interested in your suggestions or providing important points from you.
