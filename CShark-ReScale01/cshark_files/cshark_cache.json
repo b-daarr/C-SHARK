@@ -1,5 +1,6 @@
 {
-  "app_theme": "light",
+  "app_launched": "false",
+  "app_theme": "dark",
   "config_list": [
     {
       "config_name": "",
