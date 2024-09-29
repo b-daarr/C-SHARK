@@ -19,9 +19,9 @@
 
 > Requirements
 
-  [`.NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+  [`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
-[`.NET Core`](https://dotnet.microsoft.com/en-us/download) 
+[`Microsoft .NET Core`](https://dotnet.microsoft.com/en-us/download) 
 
 > License
 
