@@ -19,9 +19,9 @@
 
 > Requirements
 
-  [`.NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework) V-4.8
+  [`.NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
-[`.NET Core`](https://dotnet.microsoft.com/en-us/download) V-8.1
+[`.NET Core`](https://dotnet.microsoft.com/en-us/download) 
 
 > License
 
