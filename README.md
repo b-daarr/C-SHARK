@@ -21,5 +21,9 @@
 
   [`.NET Framework Latest Version`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
+> License
+
+[`Apache License 2.0`](https://github.com/b-daarr/CShark/blob/main/LICENSE)
+
 + Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
 I am interested in your suggestions or providing important points from you.
