@@ -9,11 +9,13 @@
   Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
 
 
-![CShark](https://github.com/user-attachments/assets/d6695a79-5ae4-4f48-8419-b1efc74a028f)
+![CShark](https://github.com/b-daarr/CShark/blob/main/CShark-ReScale01/Resources/app-logo.png)
 
 > Versions
 
-[`CShark-2024.08.12 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12) Latest
+[`CShark-2024.09.29 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.09.29) Latest
+
+[`CShark-2024.08.12 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12)
 
 > Requirements
 
