@@ -13,9 +13,9 @@
 
 > Versions
 
-[`v2024.09.29`](https://github.com/b-daarr/CShark/releases/tag/v2024.09.29) Pre-Release ✓
+[`v2024.09.29`](https://github.com/b-daarr/CShark/releases/tag/v2024.09.29) Pre-Release (Windows) ✓
 
-[`v2024.08.12`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12) Pre-Release
+[`v2024.08.12`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12) Pre-Release (Windows)
 
 > Requirements
 
