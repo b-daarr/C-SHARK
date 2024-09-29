@@ -19,7 +19,7 @@
 
 > Requirements
 
-  [.NET Framework Latest Version](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+  [`.NET Framework Latest Version`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
 + Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
 I am interested in your suggestions or providing important points from you.
