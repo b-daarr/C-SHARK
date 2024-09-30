@@ -13,9 +13,9 @@
 
 > Sources
 
-[GitHub CShark](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
+[`GitHub CShark`](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
 
-[Website CShark](https://cshark.space)
+[`Website CShark`](https://cshark.space)
 
 > Versions
 
