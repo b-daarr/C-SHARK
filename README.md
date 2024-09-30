@@ -7,10 +7,15 @@
   With CShark, internet sanctions in Iran (at least) are bypassed. 
 
   Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
-https://cshark.space
 
 
 ![CShark](https://github.com/b-daarr/CShark/blob/main/CShark-ReScale01/Resources/app-logo.png)
+
+> Sources
+
+[GitHub CShark](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
+
+[Website CShark](https://cshark.space)
 
 > Versions
 
