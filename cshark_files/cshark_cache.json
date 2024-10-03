@@ -1,0 +1,11 @@
+{
+  "app_launched": false,
+  "app_theme": "dark",
+  "config_list": [
+    {
+      "config_name": "Troubleshooter",
+      "preferred_dns_server_ip": "1.1.1.1",
+      "alternate_dns_server_ip": "8.8.8.8"
+    }
+  ]
+}
