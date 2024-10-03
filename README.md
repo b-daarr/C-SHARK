@@ -11,11 +11,17 @@
 
 ![CShark](https://github.com/b-daarr/CShark/blob/main/CShark-ReScale01/Resources/app-logo.png)
 
+> Sources
+
+[`GitHub`](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
+
+[`Website`](https://cshark.space)
+
 > Versions
 
-[`CShark-2024.09.29 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.09.29) Latest
+[`v2024.09.29`](https://github.com/b-daarr/CShark/releases/tag/v2024.09.29) Pre-Release (Windows) ✓
 
-[`CShark-2024.08.12 Pre-Release`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12)
+[`v2024.08.12`](https://github.com/b-daarr/CShark/releases/tag/v2024.08.12) Pre-Release (Windows)
 
 > Requirements
 
@@ -25,7 +31,7 @@
 
 > License
 
-[`Apache License 2.0`](https://github.com/b-daarr/CShark/blob/main/LICENSE)
+[`MIT License`](https://github.com/b-daarr/CShark/blob/804a1989c2fb3b1706ded60a978b58bd98211d90/LICENSE)
 
 + Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
 I am interested in your suggestions or providing important points from you.
