@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json;
 
-namespace CShark_ReScale01
+namespace CShark
 {
     public partial class Main : Form
     {
