@@ -1,7 +1,4 @@
 # CShark Space 🦈
-
-![Me](https://1drv.ms/i/c/d9644b001108941a/ERdpNMqFlJtDrNBmmYK6_aUBU1LCtMPzl7xtULDdxtnuiQ?e=Zo9SgW)
-
   At first, this project was started with the name of Embargo Breaker.
 
   During a rewrite, it was decided to change the name of the program to Shield, and now you have a completely advanced version of CShark Space.
