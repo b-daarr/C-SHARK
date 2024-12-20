@@ -9,7 +9,7 @@ With C-SHARK, internet sanctions in Iran (at least) are bypassed.
 
 Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
 
-<img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="background-color: rgba(214, 185, 115, 0)"/>
+<img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="background: rgba(214, 185, 115, 0); width: 64px; height: 64px;"/>
 
 > Sources
 
