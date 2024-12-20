@@ -1,11 +1,15 @@
 # C-SHARK
-  At first, this project was started with the name of Embargo Breaker.
 
-  During a rewrite, it was decided to change the name of the program to Shield, and now you have a completely advanced version of CShark Space.
+At first, this project was started with the name of Embargo Breaker.
 
-  With C-SHARK, internet sanctions in Iran (at least) are bypassed. 
+During a rewrite, it was decided to change the name of the program to Shield, and now you have a completely advanced
+version of CShark Space.
 
-  Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
+With C-SHARK, internet sanctions in Iran (at least) are bypassed.
+
+Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
+
+<img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" />
 
 > Sources
 
@@ -23,13 +27,13 @@
 
 > Requirements
 
-  [`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+[`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
-[`Microsoft .NET Core`](https://dotnet.microsoft.com/en-us/download) 
+[`Microsoft .NET Core`](https://dotnet.microsoft.com/en-us/download)
 
 > License
 
 [`MIT License`](https://github.com/b-daarr/CShark/blob/804a1989c2fb3b1706ded60a978b58bd98211d90/LICENSE)
 
 + Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
-I am interested in your suggestions or providing important points from you.
+  I am interested in your suggestions or providing important points from you.
