@@ -26,6 +26,7 @@ namespace CSHARK
         #region Lobby
         private void Lobby_Load(object sender, EventArgs e)
         {
+            // Method to display all configs
             for (int i = 0; i < 10; i++)
             {
                 RadioButton radioButton = new RadioButton();
@@ -43,7 +44,8 @@ namespace CSHARK
 
             if (msg == DialogResult.OK)
             {
-                // Disconnect Server
+                // Method To Disconnect
+                // Method to stop networkPanel Process
                 File.AppendAllText(global.appLog(), global.logMessageAE);
                 Application.Exit();
             }
@@ -62,6 +64,8 @@ namespace CSHARK
             serverListPanel.Enabled = false;
             connectionHint.Text = "Checking server...";
             connectionStatus.BackgroundImage = Resources.c02;
+            // Method To Connect
+            // Method (While) to doing networkPanel Process
         }
         #endregion
 
@@ -108,18 +112,58 @@ namespace CSHARK
         #region Setting (Network)
         private void themeChange_Click(object sender, EventArgs e)
         {
-            themeChange.BackgroundImage = Resources.darkmode;
-            themeTitle.Text = "Change Theme --- Dark";
-            //if ()
-            //{
-            //    themeChange.BackgroundImage = Resources.darkmode;
-            //    themeTitle.Text = "Change Theme --- Dark";
-            //}
-            //else
-            //{
-            //    themeChange.BackgroundImage = Resources.lightmode;
-            //    themeTitle.Text = "Change Theme --- Light";
-            //}
+        }
+        #endregion
+
+        #region Personalize
+        private void enableCustomTheme_CheckedChanged(object sender, EventArgs e)
+        {
+            if (enableCustomTheme.Checked)
+            {
+                colorPanel.Enabled = true;
+                editBack.Enabled = true;
+                editFore.Enabled = true;
+                saveTheme.Enabled = true;
+            }
+            else
+            {
+                colorPanel.Enabled = false;
+                editBack.Enabled = false;
+                editFore.Enabled = false;
+                saveTheme.Enabled = false;
+                // Set Default Theme on Json file
+            }
+        }
+
+        private void editBack_Click(object sender, EventArgs e)
+        {
+            color.AnyColor = false;
+            color.SolidColorOnly = true;
+            color.AllowFullOpen = true;
+            if(color.ShowDialog() == DialogResult.OK)
+            {
+                colorPanel.BackColor = color.Color;
+                saveTheme.Visible = true;
+                saveTheme.Enabled = true;
+            }
+        }
+
+        private void editFore_Click(object sender, EventArgs e)
+        {
+            color.AnyColor = false;
+            color.SolidColorOnly = true;
+            color.AllowFullOpen = true;
+            if (color.ShowDialog() == DialogResult.OK)
+            {
+                colorPanel.ForeColor = color.Color;
+                saveTheme.Visible = true;
+                saveTheme.Enabled = true;
+            }
+        }
+
+        private void saveTheme_Click(object sender, EventArgs e)
+        {
+
         }
         #endregion
     }

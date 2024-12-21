@@ -62,8 +62,20 @@
             dataSpeedInterval = new NumericUpDown();
             label2 = new Label();
             personalize = new TabPage();
-            themeTitle = new Label();
-            themeChange = new PictureBox();
+            saveTheme = new Button();
+            editFore = new Button();
+            editBack = new Button();
+            enableCustomTheme = new CheckBox();
+            colorPanel = new Label();
+            cThemeLabel = new Label();
+            themeMode = new Label();
+            nightLabel = new Label();
+            dayLabel = new Label();
+            themeMorn = new PictureBox();
+            themeDusk = new PictureBox();
+            themeMoonlit = new PictureBox();
+            themeLabel = new Label();
+            thmeSunny = new PictureBox();
             info = new TabPage();
             websiteLink = new Label();
             website = new PictureBox();
@@ -80,6 +92,7 @@
             appName = new Label();
             companyName = new Label();
             resetTimer = new System.Windows.Forms.Timer(components);
+            color = new ColorDialog();
             ((System.ComponentModel.ISupportInitialize)exit).BeginInit();
             ((System.ComponentModel.ISupportInitialize)minimize).BeginInit();
             TabController.SuspendLayout();
@@ -95,7 +108,10 @@
             ((System.ComponentModel.ISupportInitialize)pingNumberPacket).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataSpeedInterval).BeginInit();
             personalize.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)themeChange).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)themeMorn).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)themeDusk).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)themeMoonlit).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)thmeSunny).BeginInit();
             info.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)website).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -345,7 +361,7 @@
             // 
             // settings
             // 
-            settings.BackColor = Color.White;
+            settings.BackColor = Color.FromArgb(64, 64, 64);
             settings.Controls.Add(settingsSpliter);
             settings.Location = new Point(4, 29);
             settings.Name = "settings";
@@ -389,13 +405,13 @@
             numericUpDown2.BorderStyle = BorderStyle.FixedSingle;
             numericUpDown2.Font = new Font("Ubuntu", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             numericUpDown2.ForeColor = Color.FromArgb(255, 255, 128);
-            numericUpDown2.Location = new Point(363, 209);
+            numericUpDown2.Location = new Point(277, 209);
             numericUpDown2.Name = "numericUpDown2";
-            numericUpDown2.Size = new Size(105, 30);
+            numericUpDown2.Size = new Size(191, 30);
             numericUpDown2.TabIndex = 33;
             numericUpDown2.TextAlign = HorizontalAlignment.Center;
             numericUpDown2.ThousandsSeparator = true;
-            numericUpDown2.Value = new decimal(new int[] { 100, 0, 0, 0 });
+            numericUpDown2.Value = new decimal(new int[] { 10, 0, 0, 0 });
             // 
             // label3
             // 
@@ -406,8 +422,8 @@
             label3.Name = "label3";
             label3.Size = new Size(462, 67);
             label3.TabIndex = 34;
-            label3.Text = "Attemp to Reconnect to the Server if the Ping was\r\nGreater than [Milisecond(s)]";
-            label3.TextAlign = ContentAlignment.MiddleCenter;
+            label3.Text = "Attemp to Reconnect to the Server if the Ping was\r\nGreater than [Centisecond(s)]";
+            label3.TextAlign = ContentAlignment.MiddleLeft;
             // 
             // pingTiming
             // 
@@ -490,8 +506,20 @@
             // personalize
             // 
             personalize.BackColor = Color.Silver;
-            personalize.Controls.Add(themeTitle);
-            personalize.Controls.Add(themeChange);
+            personalize.Controls.Add(saveTheme);
+            personalize.Controls.Add(editFore);
+            personalize.Controls.Add(editBack);
+            personalize.Controls.Add(enableCustomTheme);
+            personalize.Controls.Add(colorPanel);
+            personalize.Controls.Add(cThemeLabel);
+            personalize.Controls.Add(themeMode);
+            personalize.Controls.Add(nightLabel);
+            personalize.Controls.Add(dayLabel);
+            personalize.Controls.Add(themeMorn);
+            personalize.Controls.Add(themeDusk);
+            personalize.Controls.Add(themeMoonlit);
+            personalize.Controls.Add(themeLabel);
+            personalize.Controls.Add(thmeSunny);
             personalize.Location = new Point(4, 29);
             personalize.Name = "personalize";
             personalize.Padding = new Padding(3);
@@ -499,30 +527,180 @@
             personalize.TabIndex = 1;
             personalize.Text = "Appearance";
             // 
-            // themeTitle
+            // saveTheme
             // 
-            themeTitle.BorderStyle = BorderStyle.FixedSingle;
-            themeTitle.Font = new Font("Zain Black", 13.7999992F, FontStyle.Bold);
-            themeTitle.ForeColor = Color.FromArgb(64, 64, 64);
-            themeTitle.Location = new Point(6, 12);
-            themeTitle.Name = "themeTitle";
-            themeTitle.Size = new Size(462, 30);
-            themeTitle.TabIndex = 27;
-            themeTitle.Text = "Change Theme --- Light";
-            themeTitle.TextAlign = ContentAlignment.MiddleCenter;
+            saveTheme.BackColor = Color.Lime;
+            saveTheme.Cursor = Cursors.Hand;
+            saveTheme.Enabled = false;
+            saveTheme.Font = new Font("Zain Black", 10.2F, FontStyle.Bold);
+            saveTheme.Location = new Point(374, 522);
+            saveTheme.Name = "saveTheme";
+            saveTheme.Size = new Size(94, 29);
+            saveTheme.TabIndex = 41;
+            saveTheme.Text = "Apply";
+            saveTheme.UseVisualStyleBackColor = false;
+            saveTheme.Visible = false;
+            saveTheme.Click += saveTheme_Click;
             // 
-            // themeChange
+            // editFore
             // 
-            themeChange.BackColor = Color.Silver;
-            themeChange.BackgroundImage = Properties.Resources.lightmode;
-            themeChange.BackgroundImageLayout = ImageLayout.Zoom;
-            themeChange.Cursor = Cursors.Hand;
-            themeChange.Location = new Point(187, 45);
-            themeChange.Name = "themeChange";
-            themeChange.Size = new Size(100, 100);
-            themeChange.TabIndex = 26;
-            themeChange.TabStop = false;
-            themeChange.Click += themeChange_Click;
+            editFore.Cursor = Cursors.Hand;
+            editFore.Enabled = false;
+            editFore.Font = new Font("Zain Black", 10.2F, FontStyle.Bold);
+            editFore.Location = new Point(374, 451);
+            editFore.Name = "editFore";
+            editFore.Size = new Size(94, 29);
+            editFore.TabIndex = 40;
+            editFore.Text = "Fore";
+            editFore.UseVisualStyleBackColor = true;
+            editFore.Click += editFore_Click;
+            // 
+            // editBack
+            // 
+            editBack.Cursor = Cursors.Hand;
+            editBack.Enabled = false;
+            editBack.Font = new Font("Zain Black", 10.2F, FontStyle.Bold);
+            editBack.Location = new Point(374, 486);
+            editBack.Name = "editBack";
+            editBack.Size = new Size(94, 29);
+            editBack.TabIndex = 39;
+            editBack.Text = "Back";
+            editBack.UseVisualStyleBackColor = true;
+            editBack.Click += editBack_Click;
+            // 
+            // enableCustomTheme
+            // 
+            enableCustomTheme.AutoSize = true;
+            enableCustomTheme.Cursor = Cursors.Hand;
+            enableCustomTheme.Font = new Font("Ubuntu", 8.999999F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            enableCustomTheme.Location = new Point(386, 254);
+            enableCustomTheme.Name = "enableCustomTheme";
+            enableCustomTheme.Size = new Size(79, 24);
+            enableCustomTheme.TabIndex = 38;
+            enableCustomTheme.Text = "Enable";
+            enableCustomTheme.TextAlign = ContentAlignment.MiddleCenter;
+            enableCustomTheme.UseVisualStyleBackColor = true;
+            enableCustomTheme.CheckedChanged += enableCustomTheme_CheckedChanged;
+            // 
+            // colorPanel
+            // 
+            colorPanel.BackColor = Color.FromArgb(224, 224, 224);
+            colorPanel.BorderStyle = BorderStyle.Fixed3D;
+            colorPanel.Cursor = Cursors.Hand;
+            colorPanel.Enabled = false;
+            colorPanel.Font = new Font("Ubuntu", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            colorPanel.Location = new Point(6, 293);
+            colorPanel.Name = "colorPanel";
+            colorPanel.Size = new Size(462, 222);
+            colorPanel.TabIndex = 35;
+            colorPanel.Text = "THEME PREVIEW";
+            colorPanel.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // cThemeLabel
+            // 
+            cThemeLabel.BorderStyle = BorderStyle.FixedSingle;
+            cThemeLabel.Font = new Font("Zain Black", 13.7999992F, FontStyle.Bold);
+            cThemeLabel.ForeColor = Color.FromArgb(64, 64, 64);
+            cThemeLabel.Location = new Point(6, 252);
+            cThemeLabel.Name = "cThemeLabel";
+            cThemeLabel.Size = new Size(462, 30);
+            cThemeLabel.TabIndex = 34;
+            cThemeLabel.Text = "Customize Theme";
+            cThemeLabel.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // themeMode
+            // 
+            themeMode.Font = new Font("Zain Black", 13.7999992F, FontStyle.Bold);
+            themeMode.ForeColor = Color.Green;
+            themeMode.Location = new Point(3, 196);
+            themeMode.Name = "themeMode";
+            themeMode.Size = new Size(462, 30);
+            themeMode.TabIndex = 33;
+            themeMode.Text = "Sunny is Current";
+            themeMode.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // nightLabel
+            // 
+            nightLabel.Font = new Font("Zain Black", 13.7999992F, FontStyle.Bold);
+            nightLabel.ForeColor = Color.FromArgb(64, 64, 64);
+            nightLabel.Location = new Point(262, 51);
+            nightLabel.Name = "nightLabel";
+            nightLabel.Size = new Size(206, 30);
+            nightLabel.TabIndex = 32;
+            nightLabel.Text = "Post Meridiem";
+            nightLabel.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // dayLabel
+            // 
+            dayLabel.Font = new Font("Zain Black", 13.7999992F, FontStyle.Bold);
+            dayLabel.ForeColor = Color.FromArgb(64, 64, 64);
+            dayLabel.Location = new Point(6, 51);
+            dayLabel.Name = "dayLabel";
+            dayLabel.Size = new Size(206, 30);
+            dayLabel.TabIndex = 31;
+            dayLabel.Text = "Ante Meridiem";
+            dayLabel.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // themeMorn
+            // 
+            themeMorn.BackColor = Color.Silver;
+            themeMorn.BackgroundImage = Properties.Resources.light;
+            themeMorn.BackgroundImageLayout = ImageLayout.Zoom;
+            themeMorn.Cursor = Cursors.Hand;
+            themeMorn.Location = new Point(112, 84);
+            themeMorn.Name = "themeMorn";
+            themeMorn.Size = new Size(100, 100);
+            themeMorn.TabIndex = 30;
+            themeMorn.TabStop = false;
+            // 
+            // themeDusk
+            // 
+            themeDusk.BackColor = Color.Silver;
+            themeDusk.BackgroundImage = Properties.Resources.dark;
+            themeDusk.BackgroundImageLayout = ImageLayout.Zoom;
+            themeDusk.Cursor = Cursors.Hand;
+            themeDusk.Location = new Point(262, 84);
+            themeDusk.Name = "themeDusk";
+            themeDusk.Size = new Size(100, 100);
+            themeDusk.TabIndex = 29;
+            themeDusk.TabStop = false;
+            // 
+            // themeMoonlit
+            // 
+            themeMoonlit.BackColor = Color.Silver;
+            themeMoonlit.BackgroundImage = Properties.Resources.darkmode;
+            themeMoonlit.BackgroundImageLayout = ImageLayout.Zoom;
+            themeMoonlit.Cursor = Cursors.Hand;
+            themeMoonlit.Location = new Point(368, 84);
+            themeMoonlit.Name = "themeMoonlit";
+            themeMoonlit.Size = new Size(100, 100);
+            themeMoonlit.TabIndex = 28;
+            themeMoonlit.TabStop = false;
+            // 
+            // themeLabel
+            // 
+            themeLabel.BorderStyle = BorderStyle.FixedSingle;
+            themeLabel.Font = new Font("Zain Black", 13.7999992F, FontStyle.Bold);
+            themeLabel.ForeColor = Color.FromArgb(64, 64, 64);
+            themeLabel.Location = new Point(6, 12);
+            themeLabel.Name = "themeLabel";
+            themeLabel.Size = new Size(462, 30);
+            themeLabel.TabIndex = 27;
+            themeLabel.Text = "Default Themes";
+            themeLabel.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // thmeSunny
+            // 
+            thmeSunny.BackColor = Color.Silver;
+            thmeSunny.BackgroundImage = Properties.Resources.lightmode;
+            thmeSunny.BackgroundImageLayout = ImageLayout.Zoom;
+            thmeSunny.Cursor = Cursors.Hand;
+            thmeSunny.Location = new Point(6, 84);
+            thmeSunny.Name = "thmeSunny";
+            thmeSunny.Size = new Size(100, 100);
+            thmeSunny.TabIndex = 26;
+            thmeSunny.TabStop = false;
+            thmeSunny.Click += themeChange_Click;
             // 
             // info
             // 
@@ -748,7 +926,11 @@
             ((System.ComponentModel.ISupportInitialize)pingNumberPacket).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataSpeedInterval).EndInit();
             personalize.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)themeChange).EndInit();
+            personalize.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)themeMorn).EndInit();
+            ((System.ComponentModel.ISupportInitialize)themeDusk).EndInit();
+            ((System.ComponentModel.ISupportInitialize)themeMoonlit).EndInit();
+            ((System.ComponentModel.ISupportInitialize)thmeSunny).EndInit();
             info.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)website).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
@@ -796,10 +978,10 @@
         private Label telegramLink;
         private Label email;
         private System.Windows.Forms.Timer resetTimer;
-        private PictureBox themeChange;
+        private PictureBox thmeSunny;
         private Label websiteLink;
         private PictureBox website;
-        private Label themeTitle;
+        private Label themeLabel;
         private TabControl settingsSpliter;
         private TabPage networking;
         private TabPage personalize;
@@ -811,5 +993,18 @@
         private Label pingTimingTitle;
         private NumericUpDown numericUpDown2;
         private Label label3;
+        private ColorDialog color;
+        private PictureBox themeMoonlit;
+        private PictureBox themeMorn;
+        private PictureBox themeDusk;
+        private Label dayLabel;
+        private Label nightLabel;
+        private Label themeMode;
+        private Label cThemeLabel;
+        private Label colorPanel;
+        private CheckBox enableCustomTheme;
+        private Button editFore;
+        private Button editBack;
+        private Button saveTheme;
     }
 }
