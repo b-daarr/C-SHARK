@@ -1,4 +1,4 @@
-# C-SHARK
+# `C-SHARK`
 
 At first, this project was started with the name of Embargo Breaker.
 
@@ -11,9 +11,9 @@ Currently, it is a pre-release version and it is not stable, but a stable releas
 
 ![logo](https://github.com/b-daarr/C-SHARK/blob/main/shark.png)
 
-> Sources
+`Sources`
 
-[`GitHub`](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
+> [GitHub](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
 
 [`Website`](http://cshark.space)
 
