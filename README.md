@@ -1,6 +1,6 @@
 # `C-SHARK`
 
-<img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="width: 50px; height: 50px; background-color: yellow;"/>
+<img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="width: 100px; height: 100px; background-color: yellow;"/>
 
 
 ~ At first, this project was started with the name of Embargo Breaker.
