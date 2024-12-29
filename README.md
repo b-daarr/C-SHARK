@@ -12,6 +12,9 @@ With C-SHARK, internet sanctions in Iran (at least) are bypassed.
 
 Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
 
++ Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
+  I am interested in your suggestions or providing important points from you.
+
 ---
 
 + Link
@@ -35,6 +38,3 @@ Version
 > License
 
 [`MIT License`](https://github.com/b-daarr/C-SHARK/blob/main/LICENSE.md)
-
-+ Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
-  I am interested in your suggestions or providing important points from you.
