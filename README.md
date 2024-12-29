@@ -102,5 +102,5 @@ pause
 ```
 
 ```sql
-SELECT 'Hello, World!';
+SELECT 'SPACE';
 ```
