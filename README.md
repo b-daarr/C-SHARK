@@ -56,26 +56,51 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-```python
-print("C-SHARK")
+```py
+print("SPACE")
 ```
 
 ```java
-System.out.print("C-SHARK");
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("SPACE");
+    }
+}
 ```
 
-```csharp
-Console.Write("C-SHARK");
+```json
+{
+    "message": "SPACE"
+}
 ```
 
-```powershell
-Write-Output "C-SHARK"
+```cs
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("SPACE");
+    }
+}
 ```
 
-```bash
-printf "C-SHARK"
+```ps1
+Write-Output "SPACE"
 ```
 
-```batch
-echo C-SHARK
+```sh
+#!/bin/bash
+printf "SPACE"
+```
+
+```bat
+@echo off
+echo SPACE
+pause
+```
+
+```sql
+SELECT 'Hello, World!';
 ```
