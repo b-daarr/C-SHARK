@@ -73,6 +73,7 @@ Write-Output "C-SHARK"
 ```
 
 ```bash
+printf "Hello, World!"
 ```
 
 ```batch
