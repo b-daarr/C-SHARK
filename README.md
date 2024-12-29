@@ -57,13 +57,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```python
-    print("C-SHARK")
+print("C-SHARK")
 ```
 
 ```java
-    System.out.print("C-SHARK");
+System.out.print("C-SHARK");
 ```
 
 ```csharp
-    Console.Write("C-SHARK");
+Console.Write("C-SHARK");
 ```
