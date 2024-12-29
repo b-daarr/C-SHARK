@@ -10,21 +10,21 @@ version of CShark Space.
 
 With C-SHARK, internet sanctions in Iran (at least) are bypassed.
 
-+ Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
++ `Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
 Forking and helping to develop the project is your favor so that we can progress togather 🙏🏻.
-  I am interested in your suggestions or providing important points from you.
+  I am interested in your suggestions or providing important points from you.`
 
 ---
 
-> Version List
+Version List
 
-[✓] [`v2024.12.19 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.12.19)
+> [✓] [`v2024.12.19 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.12.19)
 
 [●] [`v2024.09.29 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.09.29)
 
 [●] [`v2024.08.12 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.08.12)
 
-> Prerequisites
+Prerequisites
 
 [`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
@@ -32,7 +32,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-> [MIT License](https://github.com/b-daarr/C-SHARK/blob/main/LICENSE.md)
+[MIT License](https://github.com/b-daarr/C-SHARK/blob/main/LICENSE.md)
 
 `Copyright (c) 2025 C-SHARK Space Company`
 
