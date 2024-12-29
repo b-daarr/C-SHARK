@@ -14,11 +14,9 @@ Currently, it is a pre-release version and it is not stable, but a stable releas
 | Sources |
 |---------|
 
-> [`GitHub`](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
-
 > [Website](http://cshark.space)
 
-`Version`
+Version
 
 > [v2024.12.19 Pre-Release](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.12.19) ✓
 
