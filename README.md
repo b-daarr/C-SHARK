@@ -67,3 +67,12 @@ System.out.print("C-SHARK");
 ```csharp
 Console.Write("C-SHARK");
 ```
+
+```powershell
+Write-Output "C-SHARK"
+```
+
+```batch
+@echo off
+echo C-SHARK
+```
