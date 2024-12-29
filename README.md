@@ -72,7 +72,9 @@ Console.Write("C-SHARK");
 Write-Output "C-SHARK"
 ```
 
+```bash
+```
+
 ```batch
-@echo off
 echo C-SHARK
 ```
