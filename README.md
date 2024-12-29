@@ -13,7 +13,7 @@ Currently, it is a pre-release version and it is not stable, but a stable releas
 
 `Sources`
 
-> [GitHub](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
+> [`GitHub`](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
 
 > [Website](http://cshark.space)
 
