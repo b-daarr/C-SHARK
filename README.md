@@ -12,10 +12,9 @@ With C-SHARK, internet sanctions in Iran (at least) are bypassed.
 
 Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
 
-+ `Link`
++ # Link
 
-| [Website](http://cshark.space) |
-|---|
+[Website](http://cshark.space)
 
 Version
 
