@@ -22,7 +22,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 [`v2024.09.29 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.09.29) [●]
 
-[`v2024.08.12 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.08.12)
+[`v2024.08.12 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.08.12) [●]
 
 > Prerequisites
 
