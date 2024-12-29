@@ -17,7 +17,7 @@ Currently, it is a pre-release version and it is not stable, but a stable releas
 
 [`Website`](http://cshark.space)
 
-> Versions
+> Version
 
 [`v2024.12.19`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.12.19) Pre-Release (Windows) ✓
 
@@ -25,7 +25,7 @@ Currently, it is a pre-release version and it is not stable, but a stable releas
 
 [`v2024.08.12`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.08.12) Pre-Release (Windows)
 
-> Requirements
+> Requirement
 
 [`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
