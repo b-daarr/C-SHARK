@@ -36,7 +36,7 @@ Version
 
 ---
 
-## [`MIT License`](https://github.com/b-daarr/C-SHARK/blob/main/LICENSE.md)
+#### [`MIT License`](https://github.com/b-daarr/C-SHARK/blob/main/LICENSE.md)
 
 `Copyright (c) 2025 C-SHARK Space Company`
 
