@@ -11,7 +11,8 @@ Currently, it is a pre-release version and it is not stable, but a stable releas
 
 ![logo](https://github.com/b-daarr/C-SHARK/blob/main/shark.png)
 
-`Sources`
+| Sources |
+|---------|
 
 > [`GitHub`](https://github.com/b-daarr/CShark/blob/main/README.md#cshark-)
 
