@@ -1,4 +1,4 @@
-# `C-SHARK` <img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="width: 32px; height: 32px;"/>
+# `C-SHARK` <img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="width: 42px; height: 42px;"/>
 
 
 At first, this project was started with the name of Embargo Breaker.
