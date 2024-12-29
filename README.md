@@ -1,5 +1,7 @@
 # `C-SHARK`
 
+<img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="width: 32px; height: 32px;"/>
+
 At first, this project was started with the name of Embargo Breaker.
 
 During a rewrite, it was decided to change the name of the program to Shield, and now you have a completely advanced
@@ -8,8 +10,6 @@ version of CShark Space.
 With C-SHARK, internet sanctions in Iran (at least) are bypassed.
 
 Currently, it is a pre-release version and it is not stable, but a stable release will be provided soon...
-
-![logo](https://github.com/b-daarr/C-SHARK/blob/main/shark.png)
 
 | Sources |
 |---------|
