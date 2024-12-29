@@ -1,4 +1,4 @@
-#`C-SHARK`
+# `C-SHARK`
 
 <img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="width: 50px; height: 50px;"/>
 
