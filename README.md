@@ -16,7 +16,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-- Version List
+> Version List
 
 [✓] [`v2024.12.19 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.12.19)
 
@@ -24,7 +24,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 [●] [`v2024.08.12 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.08.12)
 
-Prerequisites
+> Prerequisites
 
 [`Microsoft .NET Framework`](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
