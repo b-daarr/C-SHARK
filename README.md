@@ -56,7 +56,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-```py
+```python
 print("C-SHARK")
 ```
 
@@ -64,18 +64,18 @@ print("C-SHARK")
 System.out.print("C-SHARK");
 ```
 
-```cs
+```csharp
 Console.Write("C-SHARK");
 ```
 
-```ps1
+```powershell
 Write-Output "C-SHARK"
 ```
 
-```sh
-printf "Hello, World!"
+```bash
+printf "C-SHARK"
 ```
 
-```bat
+```batch
 echo C-SHARK
 ```
