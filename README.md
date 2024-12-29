@@ -1,3 +1,5 @@
+<img src="https://github.com/b-daarr/b-daarr/blob/main/resource/footer.svg" style="width: 100%;" />
+
 # `C-SHARK`
 
 <img src="https://github.com/b-daarr/C-SHARK/blob/main/shark.png" style="width: 64px; height: 64px; background-color: yellow;"/>
