@@ -16,11 +16,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 ---
 
-+ Link
-
-> [Website](http://cshark.space)
-
-Version
+`Version List`
 
 > [v2024.12.19 Pre-Release](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.12.19) ✓
 
