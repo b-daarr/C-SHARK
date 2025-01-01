@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Microsoft\\Desktop\\CSHARK\\CSHARK.csproj": {}
+    "D:\\GitHub\\C-SHARK\\App\\PC\\CSHARK\\CSHARK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Microsoft\\Desktop\\CSHARK\\CSHARK.csproj": {
+    "D:\\GitHub\\C-SHARK\\App\\PC\\CSHARK\\CSHARK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Microsoft\\Desktop\\CSHARK\\CSHARK.csproj",
+        "projectUniqueName": "D:\\GitHub\\C-SHARK\\App\\PC\\CSHARK\\CSHARK.csproj",
         "projectName": "CSHARK",
-        "projectPath": "C:\\Users\\Microsoft\\Desktop\\CSHARK\\CSHARK.csproj",
+        "projectPath": "D:\\GitHub\\C-SHARK\\App\\PC\\CSHARK\\CSHARK.csproj",
         "packagesPath": "C:\\Users\\Microsoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Microsoft\\Desktop\\CSHARK\\obj\\",
+        "outputPath": "D:\\GitHub\\C-SHARK\\App\\PC\\CSHARK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

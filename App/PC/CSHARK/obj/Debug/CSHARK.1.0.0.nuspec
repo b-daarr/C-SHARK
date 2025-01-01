@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CSHARK</id>
+    <version>1.0.0</version>
+    <authors>CSHARK</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="ebbd92a0118fe2f3c37f303480dbc7bd1c294baf" />
+    <dependencies>
+      <group targetFramework="net9.0-windows7.0">
+        <dependency id="NewtonSoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\GitHub\C-SHARK\App\PC\CSHARK\bin\Debug\net9.0-windows\CSHARK.runtimeconfig.json" target="lib\net9.0-windows7.0\CSHARK.runtimeconfig.json" />
+    <file src="D:\GitHub\C-SHARK\App\PC\CSHARK\bin\Debug\net9.0-windows\CSHARK.dll" target="lib\net9.0-windows7.0\CSHARK.dll" />
+  </files>
+</package>

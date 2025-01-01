@@ -34,6 +34,7 @@
             label1 = new Label();
             label2 = new Label();
             splashing = new System.Windows.Forms.Timer(components);
+            versionLabel = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -75,12 +76,24 @@
             splashing.Interval = 3000;
             splashing.Tick += splashing_Tick;
             // 
+            // versionLabel
+            // 
+            versionLabel.Font = new Font("Consolas", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            versionLabel.ForeColor = Color.FromArgb(128, 128, 255);
+            versionLabel.Location = new Point(326, 470);
+            versionLabel.Name = "versionLabel";
+            versionLabel.Size = new Size(162, 21);
+            versionLabel.TabIndex = 5;
+            versionLabel.Text = "Version 2025.01.01 PC";
+            versionLabel.TextAlign = ContentAlignment.MiddleRight;
+            // 
             // Splash
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(23, 23, 28);
             ClientSize = new Size(500, 500);
+            Controls.Add(versionLabel);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(pictureBox1);
@@ -99,5 +112,6 @@
         private Label label1;
         private Label label2;
         private System.Windows.Forms.Timer splashing;
+        private Label versionLabel;
     }
 }
