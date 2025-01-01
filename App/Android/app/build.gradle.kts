@@ -8,10 +8,10 @@ android {
 
     defaultConfig {
         applicationId = "com.example.c_shark"
-        minSdk = 34
+        minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 20250101
+        versionName = "v2025.01.01a"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
