@@ -20,7 +20,7 @@ Forking and helping to develop the project is your favor so that we can progress
 
 > Version List
 
-[✓] [`v2024.12.19 Pre-Release (Cross Platform)`](https://github.com/b-daarr/C-SHARK/releases/tag/2025.01.01cp)
+[✓] [`v2024.12.19 Pre-Release (Cross Platform)`](https://github.com/b-daarr/C-SHARK/releases/tag/v2025.01.01cp)
 
 [●] [`v2024.12.19 Pre-Release`](https://github.com/b-daarr/C-SHARK/releases/tag/v2024.12.19)
 
