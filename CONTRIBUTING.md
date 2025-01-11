@@ -16,7 +16,7 @@ First off, thanks for taking the time to contribute! 🎉
 
 + Pull Requests
 
-> Fork the repository.
+> - Fork the repository.
 >
 > Create a new branch (`git checkout -b feature/YourFeatureName`).
 > 
