@@ -17,10 +17,15 @@ First off, thanks for taking the time to contribute! 🎉
 + Pull Requests
 
 > Fork the repository.
+>
 > Create a new branch (`git checkout -b feature/YourFeatureName`).
+> 
 > Make your changes.
+> 
 > Commit your changes (`git commit -m 'Add some feature'`).
+> 
 > Push to the branch (`git push origin feature/YourFeatureName`).
+> 
 > Open a Pull Request.
 
 **Style Guides**
