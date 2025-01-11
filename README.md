@@ -62,8 +62,6 @@ SOFTWARE.
 
 ### [Contribute](https://github.com/b-daarr/C-SHARK/blob/main/CONTRIBUTING.md)
 
-# Contributing to C-SHARK
-
 First off, thanks for taking the time to contribute! 🎉
 
 **How Can I Contribute?**
